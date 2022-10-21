@@ -1,6 +1,6 @@
 {
-    "name": "ftuzlu/paytr",
-    "description": "PHP 8.1 Laravel PayTR entegrasyonu",
+    "name": "changeftuzlu/paytr",
+    "description": "PHP 7.3 Laravel PayTR entegrasyonu",
     "license": "MIT",
     "keywords": [
         "sanal pos",
@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "php": "^8.1.0",
+        "php": ">=7.1.3",
         "guzzlehttp/guzzle": "^7.4"
     }
 }
